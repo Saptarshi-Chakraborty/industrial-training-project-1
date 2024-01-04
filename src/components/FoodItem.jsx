@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link, NavLink } from 'react-router-dom'
-import '../styles/fooditem.css'
+import { Link } from 'react-router-dom'
 
 const FoodItem = ({ food, id }) => {
     return (
