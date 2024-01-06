@@ -35,6 +35,13 @@ const ALL_FOODS = [
         price: 100,
         rating: 5,
         image: "/images/pizza.jpg"
+    },
+    {
+        name : "Biriyani",
+        type : "Lunch",
+        price : 120,
+        rating : 5,
+        image : "/images/biriyani.jpg"
     }
 
 ]
